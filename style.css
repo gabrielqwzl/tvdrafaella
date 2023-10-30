@@ -5,7 +5,7 @@
 
 body {
     font-family: 'Montserrat', sans-serif;
-    background: #f0f0f0 url('/TVDsite/TVD.jpg') fixed center/cover;
+    background: #f0f0f0 url('./TVD.jpg') fixed center/cover;
     color: #ffffff;
     margin: 0;
     padding: 0;
